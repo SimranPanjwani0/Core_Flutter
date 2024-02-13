@@ -19,8 +19,20 @@ class _HomePageState extends State<HomePage> {
           "DesignView",
           style: MyStyles.titleStyle,
         ),
+        actions: [
+          IconButton(
+            onPressed: () {
+              Navigator.of(context).pushNamed(MyRoutes.cartpage);
+            },
+            icon: const Icon(
+              Icons.favorite,
+              color: Colors.red,
+              size: 20,
+            ),
+          ),
+        ],
         centerTitle: true,
-        backgroundColor: Colors.black54,
+        backgroundColor: Colors.black,
       ),
       body: Padding(
         padding: const EdgeInsets.all(16),
