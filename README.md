@@ -1,4 +1,4 @@
-# appmania
+# Appmania
 
 A new Flutter project.
 
