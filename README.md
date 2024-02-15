@@ -2,18 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+##### Add to cart from HomePage and DetailPage
+##### Total price calculation in CartPage
+##### Filtering category-wise in HomePage.
+##### Increase/Decrease item quantity in DetailPage
 
-This project is a starting point for a Flutter application.
+### Functionalities which are not required to be implemented:
+##### Promo code in CartPage
+##### Increase/Decrease item quantity in CartPage
+##### Search functionality in HomePage
+##### Add to Favourites from DetailPage/HomePage
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 #### OUTPUT :
 
